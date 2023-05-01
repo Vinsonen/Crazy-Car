@@ -46,7 +46,7 @@ R = I - 2 * dot(I, N) * N
 最终得到反射角度 β，即可计算出进入一束光线的反射的参考角度。
 
 
-#Sensor Sharp-GP2Y0A02YK
+# Sensor Sharp-GP2Y0A02YK
 
 
 voltage (V) =( A / Distance ) + B
@@ -56,6 +56,6 @@ digitaler Wert =( A / Distance ) + B
 Entfernung = A/(digitaler Wert-B)
 A=-58.5V = 23961.6  B = 0.05V = 20.48
 
-Entfernung = 23961.6/(WERT-20.48)
+### Entfernung = 23961.6/(WERT-20.48)
 WERT∈[0,1024]
 
