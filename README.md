@@ -51,6 +51,7 @@ R = I - 2 * dot(I, N) * N
 
 voltage (V) =( A / Distance ) + B
 digitaler Wert =( A / Distance ) + B
+
 10bit----1024
 
 Entfernung = A/(digitaler Wert-B)
