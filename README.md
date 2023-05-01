@@ -55,6 +55,7 @@ digitaler Wert =( A / Distance ) + B
 10bit----1024
 
 Entfernung = A/(digitaler Wert-B)
+
 A=-58.5V = 23961.6  B = 0.05V = 20.48
 
 ### Entfernung = 23961.6/(WERT-20.48)
