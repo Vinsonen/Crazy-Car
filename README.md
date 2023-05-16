@@ -68,5 +68,9 @@ turn_angle = 0
 turn_speed = 2
 
 将小车旋转时 有以下参数有关：
-轮毂的转向角度 radangle , 速度 speed, 
+小车旋转角的速度turns_speed 与 轮毂的转向角度 radangle , 速度 speed, 之间的关系式
+
+寻找每一次update之后   
+给出的radangle 和
+
 
